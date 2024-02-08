@@ -1,0 +1,10 @@
+/target/
+.env
+handlers1.rs
+diesel.toml
+.vscode/
+Cargo.lock
+.DS_Store
+.cargo
+**/*.rs.bk
+**/*.rs.swp
